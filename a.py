@@ -1,1 +1,1 @@
-print("enjoy ur day")
+print("enjoy ur day and focus on ur studies")
